@@ -9,3 +9,10 @@ Weidi Zhang, PhD · Arizona State University
 The lecture, local images, and speaker notes are encrypted. Ask the instructor for the class password. Videos require internet access.
 
 Use arrow keys to navigate, F for fullscreen, and Presenter view for a separate notes window.
+
+
+## Audio. Visual. Space.
+
+[Open audiovisual lecture](https://unibiubiu.github.io/Interactive-Art-Media-Installation-Class/AV/)
+
+77 slides covering audiovisual aesthetics, installation, space and time, and fulldome practice. Includes speaker notes, a synchronized presenter window, video playback controls, and password-protected lecture/media files.
